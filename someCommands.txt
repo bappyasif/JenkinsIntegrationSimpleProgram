@@ -1,0 +1,10 @@
+
+Some Commands for git :
+
+git init
+git status
+git add .
+git commit -m"First Commit to this Simple Java Program to Test Integration Using Jenkins from CMD"
+git remote add origin https://github.com/bappyasif/JenkinsIntegrationSimpleProgram.git
+git push -u origin master
+git status
